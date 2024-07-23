@@ -19,7 +19,13 @@
 
 TechLab is a Next.js and React template specifically designed for IT solutions and services. The template features a modern and flexible design, making it ideal for tech companies and startups. It comes with a variety of pages and components that simplify the process of building a professional website.
 
-![Project Image](path/to/your/image.png)
+![Project Image](public/assets/images/ScreenShot/1.png)
+![Project Image](public/assets/images/ScreenShot/2.png)
+![Project Image](public/assets/images/ScreenShot/3.png)
+![Project Image](public/assets/images/ScreenShot/4.png)
+![Project Image](public/assets/images/ScreenShot/5.png)
+![Project Image](public/assets/images/ScreenShot/6.png)
+
 
 [![Project Video](path/to/your/video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
 
@@ -41,7 +47,7 @@ TechLab is a Next.js and React template specifically designed for IT solutions a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo.git
+    git clone https://github.com/redoianewz/it-Solution
     ```
 2. Install dependencies:
     ```bash
@@ -54,16 +60,16 @@ TechLab is a Next.js and React template specifically designed for IT solutions a
 
 ## Screenshots
 
-![Homepage](path/to/your/homepage_image.png)
+![Homepage](public/assets/images/ScreenShot/6.png)
 *Description of the homepage*
 
-![Services Page](path/to/your/services_page_image.png)
+![Services Page](public/assets/images/ScreenShot/2.png)
 *Description of the services page*
 
-![Contact Page](path/to/your/contact_page_image.png)
+![Contact Page](public/assets/images/ScreenShot/1.png)
 *Description of the contact page*
 
 ## Demo
 
 You can view the template demo at the following link:
-[Demo Link](https://preview.themeforest.net/item/techlab-it-solutions-and-services-react-nextjs-template/full_screen_preview/50812574?_ga=2.269139569.1635889014.1721646891-1642138398.1721404583)
+[Demo Link](https://github.com/redoianewz/it-Solution)
