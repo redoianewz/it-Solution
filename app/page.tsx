@@ -1,6 +1,6 @@
 import { projectSectionData } from '@/data/project-section/v1/home-page';
 import { serviceSectionData } from '@/data/service-section/v1/home-page';
-import { Footer } from '@/src/layout/footer/v1';
+import { Footer } from '@/src/layout/footer/v2';
 import { MainHeader } from '@/src/layout/header';
 import { AboutSection } from '@/src/sections/about/v1';
 import { BlogSection } from '@/src/sections/blog/v1';
