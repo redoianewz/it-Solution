@@ -20,11 +20,11 @@
 TechLab is a Next.js and React template specifically designed for IT solutions and services. The template features a modern and flexible design, making it ideal for tech companies and startups. It comes with a variety of pages and components that simplify the process of building a professional website.
 
 ![Project Image](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/1.png)
-![Project Image](public/assets/images/ScreenShot/2.png)
-![Project Image](public/assets/images/ScreenShot/3.png)
-![Project Image](public/assets/images/ScreenShot/4.png)
-![Project Image](public/assets/images/ScreenShot/5.png)
-![Project Image](public/assets/images/ScreenShot/6.png)
+![Project Image](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/2.png)
+![Project Image](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/3.png)
+![Project Image](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/4.png)
+![Project Image](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/5.png)
+![Project Image](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/6.png)
 
 
 [![Project Video](path/to/your/video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
@@ -60,13 +60,13 @@ TechLab is a Next.js and React template specifically designed for IT solutions a
 
 ## Screenshots
 
-![Homepage](public/assets/images/ScreenShot/6.png)
+![Homepage](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/6.png)
 *Description of the homepage*
 
-![Services Page](public/assets/images/ScreenShot/2.png)
+![Services Page](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/2.png)
 *Description of the services page*
 
-![Contact Page](public/assets/images/ScreenShot/1.png)
+![Contact Page](https://github.com/redoianewz/it-Solution/blob/main/public/assets/images/ScreenShoot/1.png)
 *Description of the contact page*
 
 ## Demo
