@@ -44,6 +44,7 @@ export interface FooterSectionProps {
   };
   footerBottom: {
     copyrightText: string;
+    version: string;
     links: LinkProps[];
   };
 }
