@@ -41,8 +41,13 @@ TechLab is a Next.js and React template specifically designed for IT solutions a
 </div>
 
 
-[![Project Video](path/to/your/video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
+## Project Videos
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <video src="https://drive.google.com/file/d/1dPTslz48eJ5u2fx6g1WjJY4HC9h4YZs9/view?usp=sharing" alt="Project Video 1" style="width: 100%; max-width: 300px;"></video>    
+        <video src="https://drive.google.com/file/d/1dPTslz48eJ5u2fx6g1WjJY4HC9h4YZs9/view?usp=sharing" alt="Project Video 2" style="width: 100%; max-width: 300px;"></video>
+    
+</div>
 ## Features
 
 - Clean and modern design
