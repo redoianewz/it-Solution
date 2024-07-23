@@ -14,3 +14,56 @@
 - `ci` – continuous integration related
 - `build` – changes that affect the build system or external dependencies
 - `revert` – reverts a previous commit
+
+## Project Description
+
+TechLab is a Next.js and React template specifically designed for IT solutions and services. The template features a modern and flexible design, making it ideal for tech companies and startups. It comes with a variety of pages and components that simplify the process of building a professional website.
+
+![Project Image](path/to/your/image.png)
+
+[![Project Video](path/to/your/video_thumbnail.png)](https://www.youtube.com/watch?v=your_video_id)
+
+## Features
+
+- Clean and modern design
+- Easy customization and editing
+- Dedicated pages for different services
+- Full SEO support
+- High performance and excellent loading speed
+
+## Usage
+
+- The template can be used to create websites for tech companies
+- Ideal for showcasing tech services and products
+- Supports integration with various tools and services
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-repo.git
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Run the project:
+    ```bash
+    npm start
+    ```
+
+## Screenshots
+
+![Homepage](path/to/your/homepage_image.png)
+*Description of the homepage*
+
+![Services Page](path/to/your/services_page_image.png)
+*Description of the services page*
+
+![Contact Page](path/to/your/contact_page_image.png)
+*Description of the contact page*
+
+## Demo
+
+You can view the template demo at the following link:
+[Demo Link](https://preview.themeforest.net/item/techlab-it-solutions-and-services-react-nextjs-template/full_screen_preview/50812574?_ga=2.269139569.1635889014.1721646891-1642138398.1721404583)
